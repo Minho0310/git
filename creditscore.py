@@ -34,3 +34,10 @@ gpa=creditxscoresum / credit_sum
 print(f"열람용:{credit_sum}학점,GPA:{gpa}")
 print("여기 b1맞나")
 
+a=[1,2,3]
+b=0
+for i in a:
+    b+=i
+print(b)
+
+
