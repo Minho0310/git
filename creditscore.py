@@ -32,7 +32,7 @@ while True:
     print(f"평점은{score_e}입니다")
 gpa=creditxscoresum / credit_sum
 print(f"열람용:{credit_sum}학점,GPA:{gpa}")
-print("!!!")
+print("다시 할래 modified")
 
 
 
